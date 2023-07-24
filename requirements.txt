@@ -28,3 +28,4 @@ oneccl_bind_pt
 -f https://developer.intel.com/ipex-whl-stable-cpu
 intel_extension_for_pytorch
 xformers
+nvidia-cudnn-cu11
