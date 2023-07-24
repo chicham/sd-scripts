@@ -1,4 +1,5 @@
 accelerate<0.16
+bitsandbytes
 torch
 torchvision
 transformers<4.27
